@@ -8,4 +8,4 @@ Get the latest news headlines and other news
 based on your interests 
 also you can find the right statistics for covid - 19 all in this app
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](http://url/to/img.png)

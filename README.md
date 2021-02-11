@@ -12,10 +12,10 @@ also you can find the right statistics for covid - 19 all in this app
 |-------------|
 | <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3e76e3113284319.602479ac27dcb.png" width="800"> </p>| 
 | News screens |
-|-------------|
+|^_^|
 | <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9124b9113284319.602479ac287f3.png" width="800" ></p> | 
 | Covid-19 screens |
-|-------------|
+|^_^|
 | <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/48637f113284319.602479ac28ea6.png" width="800" ></p> | 
 | Preferences  |
 |^_^|

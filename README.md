@@ -18,5 +18,5 @@ also you can find the right statistics for covid - 19 all in this app
 |-------------|
 | <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/48637f113284319.602479ac28ea6.png" width="800" ></p> | 
 | Preferences  |
-|^_^^_^ ^_^^_^|
+|^_^^_^_^_^^_^|
 | <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/2eb5ec113284319.602479ac282ca.png" width="800" ></p> | 

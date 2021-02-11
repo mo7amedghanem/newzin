@@ -8,7 +8,6 @@ Get the latest news headlines and other news
 based on your interests 
 also you can find the right statistics for covid - 19 all in this app
 
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+| col 1      | col 2      |
+|------------|-------------|
+| <img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" width="250"> | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250">

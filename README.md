@@ -12,7 +12,7 @@ Get the latest news headlines and other news based on your interests also you ca
 *********************************
 Application components 
 *********************************
-- Two Apis ( News API - Covid 19 API )
+- Two Apis ( News API ( Egyptian sources ) - Covid 19 API )
 - web view 
 - Chart
 - Shared Preferences

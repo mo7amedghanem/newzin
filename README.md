@@ -22,7 +22,7 @@ Application components
 - Translation ( Arabic & English )
 - Dark mode
 ---------------------------
-           Newzine
+          align="center"> Newzine
 ---------------------------
 <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3e76e3113284319.602479ac27dcb.png" width="800"> </p>
 

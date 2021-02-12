@@ -1,4 +1,4 @@
-# Newzin
+# Newzine
 
 A news and Covid - 19 statistics application.
 
@@ -19,7 +19,9 @@ Application components
 - Translation ( Arabic & English )
 - Dark mode
 - Search
-
+*********************************
+Newzine screenshots 
+*********************************
 ---------------------------
                                                                 Newzine
 ---------------------------

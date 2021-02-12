@@ -18,6 +18,8 @@ Application components
 - Shared Preferences
 - Translation ( Arabic & English )
 - Dark mode
+- Search
+
 ---------------------------
                                                                Newzine
 ---------------------------
